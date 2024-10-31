@@ -1,4 +1,4 @@
-# IoT SPS Projekt 🌐⚙️
+# IoT SPS Projekt 🌐
 
 Projekte und Aufgaben zur Integration von IoT-Lösungen mit Siemens TIA Portal.
 
